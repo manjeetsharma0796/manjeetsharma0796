@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=manjeetsharma0796)
+Profile Views -> ![Visitor Count](https://profile-counter.glitch.me/manjeetsharma0796/count.svg)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manjeet Sharma
 ======================================================================================================================================
